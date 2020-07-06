@@ -2,7 +2,7 @@
 
 ## Breast Cancer Recurrence
 
-[Repo](https://github.com/Margaret8521/DSCI522_Group_301)
+[project repo](https://github.com/Margaret8521/DSCI522_Group_301)
 
 ## Job Analyzer
 
