@@ -2,7 +2,7 @@
 
 ## Image Software Development
 
-- Python: [repo](https://github.com/Margaret8521/imgtool)
+- Python: [repo](https://github.com/Margaret8521/imgtoolpy)
 - R: [repo](https://github.com/Margaret8521/rimgtool)
 
 ## Breast Cancer Recurrence
